@@ -10,7 +10,6 @@
                             width: 100%;
                             display: flex;
                             flex-wrap: wrap;
-
                         }
 
 
@@ -26,7 +25,6 @@
                             .education {
                                 width: 50%;
                                 order: 1;
-
                             }
 
                             .contact__info {
@@ -34,11 +32,8 @@
                             }
 
 
-
                             .social_media_links {
-
                                 font-size: 0.85em;
-
                             }
 
 
@@ -95,9 +90,7 @@
 
 
                             .social_media_links {
-
-                                font-size: 1em;
-
+                               font-size: 1em;
                             }
 
 
@@ -121,16 +114,11 @@
                             }
 
                             #portfolio__logo {
-
                                 height: 100px;
-
                             }
 
                             figcaption {
-
-
                                 font-size: 12px;
-
                             }
 
                             .header__name {
